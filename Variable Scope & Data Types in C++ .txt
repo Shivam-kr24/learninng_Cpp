@@ -1,0 +1,56 @@
+Variable Scope & Data Types in C++ in Hindi | C++ Tutorials for Beginners #4
+In this series of C++ tutorials, we will visualize the variable scope and data types in the C++ language in this lecture. In our last lesson, we discussed the variable's role and comments. In this C++ tutorial, we are going to cover two important concepts of C++:
+
+Variable Scope
+Data Types
+Before explaining the concept of variable scope, I would like to clarify about variables a little more. Variable can be defined as a container to hold data. Variables are of different types, for example:
+
+Int-> Int is used to store integer data e.g (-1, 2, 5,-9, 3, 100).
+Float-> Float is used to store decimal numbers e.g (0.5, 1.05, 3.5, 10.5)
+Char-> Char is used to store a single character e.g. ('a', 'b',' c', 'd')
+Boolean-> Boolean is used to store "true" or "false."
+Double-> Double is also used to store decimal numbers but has more precision than float, e.g. (10.5895758440339...)
+Here is an example to understand variables: int sum = 34; means that sum is an integer variable that holds value '34' in memory.
+
+Syntax for Declaring Variables in C++
+
+Data_type Variable_name = Value;
+Ex: int a=4; char letter = ‘p’;
+Ex: int a=4, b=6;
+Variable Scope
+The scope of a variable is the region in the program where the existence of that variable is valid. For example, consider this analogy - if one person travels to another country illegally, we will not consider that country as its scope because he doesn't have the necessary documents to stay in that country.
+
+Base on scope, variables can be classified into two types:
+
+Local variables
+Global variables
+Local variables:
+Local variables are declared inside the braces of any function and can be assessed only from there. 
+
+Global variables:
+Global variables are declared outside any function and can be accessed from anywhere.
+
+Data Types
+Data types define the type of data that a variable can hold; for example, an integer variable can hold integer data, a character can hold character data, etc.
+
+Data types in C++ are categorized into three groups:
+
+Built-in
+User-defined
+Derived
+1. Built-in Data Types in C++:
+Int
+Float
+Char
+Double
+Boolean
+2. User-Defined Data Types in C++:
+Struct
+Union
+Enum
+
+
+3. Derived Data Types in C++:
+Array
+Pointer
+Function
