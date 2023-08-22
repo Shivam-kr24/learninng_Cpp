@@ -1,0 +1,6 @@
+Pointers in C++
+A pointer is a data type which holds the address of other data type. The “&” operator is called “address off" operator, and the "*” operator is called “value at” dereference operator. 
+
+Pointer to Pointer
+Pointer to Pointer is a simple concept, in which we store the address of one Pointer to another pointer.
+

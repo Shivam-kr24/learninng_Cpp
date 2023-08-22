@@ -1,0 +1,23 @@
+Constants, Manipulators & Operator Precedence | 
+In this series of our C++ tutorials, we will visualize the constants, manipulator, and operator precedence in C++ language in this lecture. In our last lesson, we discussed the reference variable and typecasting in C++. If you haven't read the previous tutorial, click (ADD THE LINK OF the PREVIOUS LECTURE).
+
+In this C++ tutorial, the topics which we are going to cover today are given below:
+
+Constants in C++
+Manipulator in C++
+Operator Precedence in C++
+Constants in C++
+Constants are unchangeable; when a constant variable is initialized in a program, its value cannot be changed afterwards.
+
+Manipulator
+In C++ programming, language manipulators are used in the formatting of output. The two most commonly used manipulators are: "endl" and "setw".
+
+"endl" is used for the next line.
+"setw" is used to specify the width of the output.
+
+Operator Precedence & Operator Associativity
+Operator precedence helps us to solve an expression. For example, in an expression "int c = a*b+c" the multiplication operator's precedence is higher than the precedence of addition operator, so the multiplication between "a & b" first and then addition will be performed.
+
+Operator associativity helps us to solve an expression; when two or more operators have the same precedence, the operator associativity helps us to decide that we should solve the expression from "left-to-right" or from "right-to-left".
+
+

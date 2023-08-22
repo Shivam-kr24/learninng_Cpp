@@ -1,0 +1,69 @@
+For, While and do-while loops.
+ 
+
+Loops in C++
+Loops are block statements, which keeps on repeatedly executing until a specified condition is met. There are three types of loops in C++
+
+For loop in C++
+While loop in C++
+Do While in C++
+For Loop in C++
+For loop help us to run some specific code repeatedly until the specified condition is met.
+
+we created for loop, and inside its condition, there are three statements separated by a semicolon. The 1st statement is called “initialization”, the 2nd statement is called “condition”, and the 3rd statement is called “updation". After that, there is a loop body in which code is written, which needs to be repeated.  Here is how our for loop will be executed:
+
+Initialize integer variable “i” with value “0”
+Check the condition if the value of the variable "i” is smaller than “4”
+If the condition is true go into loop body and execute the code
+Update the value of “i” by one
+Keep repeating this step until the condition gets false. 
+
+
+While Loop in C++
+While loop helps us to run some specific code repeatedly until the specified condition is met.
+
+
+we created a while loop, and inside its condition, there is one statement. The statement is called "condition”. Here is how our while loop will be executed:
+
+Initialize integer variable “i” with value “1”
+Check the condition if the value of the variable "i” is smaller or equal to "40."
+If the condition is true to go into loop body and execute the code
+Update the value of “i” by one
+Keep repeating this step until the condition gets false.
+
+
+Do-While Loop in C++
+The do-while loop helps us to run some specific code repeatedly until a specified condition is met.
+
+
+we created a do-while loop, and the syntax of the do-while loop is like write body with "do” keyword and at the end of body write “while" keyword with the condition. Here is how our do-while loop will be executed:
+
+Initialize integer variable “i” with value “1”
+Go into loop body and execute the code
+Check the condition if the value of the variable "i" is smaller or equal to "40”
+If the condition is true - go into loop body and execute the code
+Keep repeating this step until the condition gets false.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
