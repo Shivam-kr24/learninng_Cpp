@@ -1,0 +1,8 @@
+27.Friend Classes & Member Friend Functions in C++
+
+Member Friend Functions in C++
+Friend functions are those functions that have the access to private members of the class in which they are declared. The main thing to note here is that only that function can access the member function which is made a friend of the other class.
+
+Friend Classes in C++
+Friend classes are those classes that have permission to access private members of the class in which they are declared. The main thing to note here is that if the class is made friend of another class then it can access all the private members of that class.
+

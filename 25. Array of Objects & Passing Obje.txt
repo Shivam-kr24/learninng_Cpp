@@ -1,0 +1,7 @@
+25. Array of Objects & Passing Objects as Function Arguments in C++
+
+An array of Objects in C++
+An array of objects is declared the same as any other data-type array.  An array of objects consists of class objects as its elements. If the array consists of class objects it is called an array of objects. 
+
+Passing Object as Function Argument
+Objects can be passed as function arguments. This is useful when we want to assign the values of a passed object to the current object. 

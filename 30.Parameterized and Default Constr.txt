@@ -1,0 +1,4 @@
+30.Parameterized and Default Constructors In C++
+Parameterized and Default Constructors in C++
+Parameterized constructors are those constructors that take one or more parameters. Default constructors are those constructors that take no parameters. The main things to note here are that constructors are written in the public section of the class and the constructors don’t have a return type. 
+

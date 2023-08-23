@@ -1,0 +1,4 @@
+28.More on C++ Friend Functions (Examples & Explanation) 
+
+Friend Functions in C++
+As we have already discussed in previous lectures friend functions are those functions that can access the private data members of the other class.
