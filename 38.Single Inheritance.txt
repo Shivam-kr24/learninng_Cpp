@@ -1,0 +1,8 @@
+38.Single Inheritance
+
+Single Inheritance in C++
+Single inheritance is a type of inheritance in which a derived class is inherited with only one base class. For example, we have two classes “employee” and “programmer”. If the “programmer” class is inherited from the “employee” class which means that the “programmer” class can now implement the functionalities of the “employee” class.
+
+
+
+

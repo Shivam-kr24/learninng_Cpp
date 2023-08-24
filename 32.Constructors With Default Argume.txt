@@ -1,0 +1,18 @@
+32.Constructors With Default Arguments In C++ |
+Constructors with Default Arguments in C++
+Default arguments of the constructor are those which are provided in the constructor declaration. If the values are not provided when calling the constructor the constructor uses the default arguments automatically. 
+according to code..........>>>>>>>
+Code Snippet 1: Constructor with Default Arguments Program Example
+
+As shown in a code snippet 1,
+
+1st we created a “simple” class which consists of private data members “data1”, “data2” and “data3”.
+2nd parameterized constructor of the “simple” class is defined which takes three parameters and assigns values to the data members “a” and “b”. The main thing to note here is that the value “9” and “8” are the default values for the variables “b” and “c”.
+3rd function “printData” is defined which prints the values of the data members “data1”, “data2”, and “data3”.
+
+Code Snippet 2: Main Program
+
+As shown in code snippet 2,
+
+1st parameterized constructor is called with the object “s” of the data type “simple” and the values “12” and “13” are passed. The main thing to note here is that the value of the parameter “c” will be automatically set by the default value.
+2nd function “printData” is called which will print the values of data members.
